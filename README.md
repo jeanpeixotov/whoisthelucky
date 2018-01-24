@@ -18,3 +18,5 @@
 * `yarn run build:client` - runs webpack to build bundle
 * `yarn run build:prod` - builds both client and server
 * `yarn run start` - it calls `build:prod` and then runs the app 
+
+![codando](https://media.giphy.com/media/ZvLUtG6BZkBi0/giphy.gif)

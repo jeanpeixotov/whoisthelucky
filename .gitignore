@@ -1,0 +1,4 @@
+node_modules
+build
+coverage // when I run my tests (jest), I also generate test 
+coverage reports
